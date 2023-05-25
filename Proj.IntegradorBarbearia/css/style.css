@@ -1,0 +1,29 @@
+.btnlogin{
+    color: white;
+    text-decoration: none;
+    outline: none;
+    border-radius: 6px;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: -2px;
+    margin-left: -280px;
+    background-color: #897253;
+    
+
+}
+.d-none d-md-block{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.textlogin{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
